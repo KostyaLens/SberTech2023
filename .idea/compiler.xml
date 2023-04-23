@@ -21,20 +21,5 @@
         <module name="Homework" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="djinaruki" target="19" />
-      <module name="Exceptions" target="19" />
-      <module name="Homework" target="19" />
-      <module name="JavaReflection" target="19" />
-      <module name="knishka" target="19" />
-      <module name="Krug" target="19" />
-      <module name="ll" target="19" />
-      <module name="map" target="19" />
-      <module name="Mat" target="19" />
-      <module name="paint" target="19" />
-      <module name="Pizza" target="19" />
-      <module name="sort" target="19" />
-      <module name="Telefochik" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

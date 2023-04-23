@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -16,6 +17,7 @@
         <option value="$PROJECT_DIR$/Object-Oriented Programming 1/knishka/pom.xml" />
         <option value="$PROJECT_DIR$/Object-Oriented Programming 1/Telefochik/pom.xml" />
         <option value="$PROJECT_DIR$/Object-Oriented Programming 2/paint/pom.xml" />
+        <option value="$PROJECT_DIR$/IOandNIO/pom.xml" />
       </list>
     </option>
   </component>
