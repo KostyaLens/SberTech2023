@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaReflection" />
+        <module name="ll" />
+        <module name="Mat" />
+        <module name="paint" />
+        <module name="sort" />
+        <module name="djinaruki" />
+        <module name="Pizza" />
+        <module name="Exceptions" />
+        <module name="Krug" />
+        <module name="knishka" />
+        <module name="Telefochik" />
+        <module name="map" />
+        <module name="Homework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="djinaruki" target="19" />
+      <module name="Exceptions" target="19" />
+      <module name="Homework" target="19" />
+      <module name="JavaReflection" target="19" />
+      <module name="knishka" target="19" />
+      <module name="Krug" target="19" />
+      <module name="ll" target="19" />
+      <module name="map" target="19" />
+      <module name="Mat" target="19" />
+      <module name="paint" target="19" />
+      <module name="Pizza" target="19" />
+      <module name="sort" target="19" />
+      <module name="Telefochik" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

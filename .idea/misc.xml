@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/Java Generics/djinaruki/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaReflection/pom.xml" />
+        <option value="$PROJECT_DIR$/Java Build Tools/sort/pom.xml" />
+        <option value="$PROJECT_DIR$/Java Collections 1/ll/pom.xml" />
+        <option value="$PROJECT_DIR$/Java Collections 2/map/pom.xml" />
+        <option value="$PROJECT_DIR$/Java Collections 2/Homework/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 1/Mat/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 1/Krug/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 1/Pizza/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 1/knishka/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 1/Telefochik/pom.xml" />
+        <option value="$PROJECT_DIR$/Object-Oriented Programming 2/paint/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

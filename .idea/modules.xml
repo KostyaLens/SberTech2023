@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections 2/Homework/Homework.iml" filepath="$PROJECT_DIR$/Java Collections 2/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReflection/JavaReflection.iml" filepath="$PROJECT_DIR$/JavaReflection/JavaReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 1/Krug/Krug.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 1/Krug/Krug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 1/Mat/Mat.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 1/Mat/Mat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 1/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 1/Pizza/Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SberTech2023.iml" filepath="$PROJECT_DIR$/.idea/SberTech2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 1/Telefochik/Telefochik.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 1/Telefochik/Telefochik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Generics/djinaruki/djinaruki.iml" filepath="$PROJECT_DIR$/Java Generics/djinaruki/djinaruki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 1/knishka/knishka.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 1/knishka/knishka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections 1/ll/ll.iml" filepath="$PROJECT_DIR$/Java Collections 1/ll/ll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections 2/map/map.iml" filepath="$PROJECT_DIR$/Java Collections 2/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented Programming 2/paint/paint.iml" filepath="$PROJECT_DIR$/Object-Oriented Programming 2/paint/paint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Build Tools/sort/sort.iml" filepath="$PROJECT_DIR$/Java Build Tools/sort/sort.iml" />
+    </modules>
+  </component>
+</project>
