@@ -11,16 +11,19 @@
         <module name="Mat" />
         <module name="paint" />
         <module name="sort" />
+        <module name="Annotation" />
         <module name="djinaruki" />
         <module name="Pizza" />
         <module name="Exceptions" />
         <module name="Krug" />
         <module name="knishka" />
         <module name="Telefochik" />
-        <module name="JavaAnnotation" />
         <module name="map" />
         <module name="Homework" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaAnnotation" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
