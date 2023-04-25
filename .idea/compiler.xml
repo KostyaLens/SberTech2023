@@ -17,6 +17,7 @@
         <module name="Krug" />
         <module name="knishka" />
         <module name="Telefochik" />
+        <module name="JavaAnnotation" />
         <module name="map" />
         <module name="Homework" />
       </profile>
