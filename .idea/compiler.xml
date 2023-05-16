@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaReflection" />
         <module name="ll" />
+        <module name="StreamAPIlesson1" />
         <module name="Mat" />
         <module name="paint" />
         <module name="sort" />
