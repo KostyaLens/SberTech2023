@@ -15,6 +15,7 @@
         <module name="Annotation" />
         <module name="djinaruki" />
         <module name="Pizza" />
+        <module name="StreamAPILesson2" />
         <module name="Exceptions" />
         <module name="Krug" />
         <module name="knishka" />
