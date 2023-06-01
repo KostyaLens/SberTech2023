@@ -15,12 +15,14 @@
         <module name="Annotation" />
         <module name="djinaruki" />
         <module name="Pizza" />
+        <module name="NIOAndIO" />
         <module name="StreamAPILesson2" />
         <module name="Exceptions" />
         <module name="Krug" />
         <module name="knishka" />
         <module name="Telefochik" />
         <module name="map" />
+        <module name="Philosophy" />
         <module name="Homework" />
       </profile>
     </annotationProcessing>
