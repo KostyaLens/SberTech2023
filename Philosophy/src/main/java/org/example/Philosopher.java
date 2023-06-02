@@ -1,12 +1,9 @@
 package org.example;
 
-class Fоrk {
-    public boolean taken;
-}
 public class Philosopher implements Runnable {
-    private Fоrk leftFork;
-    private Fоrk rightFork;
-    public Philosopher(Fоrk leftFork, Fоrk rightFork){
+    private Object leftFork;
+    private Object rightFork;
+    public Philosopher(Object leftFork, Object rightFork){
         this.leftFork = leftFork;
         this.rightFork = rightFork;
     }
@@ -14,11 +11,15 @@ public class Philosopher implements Runnable {
     @Override
     public void run() {
         while (true){
-//            if (Thread.// я хотел получить вот так доспуп взята ли вилка если да то философ думает, и ждеёт пока осободиться)
-//                if //здесь я хотел проверить зята ли второя если то он кладёт ту что взял и думает
-                    //а здесь типо есть а потом кладёт обез вилки
-                // взята ли вилка я хотел контролировать полем taken у Fork
-            //
+            System.out.println(Thread.currentThread().getName() + " размышляет");
+            synchronized(leftFork) {
+                System.out.println(Thread.currentThread().getName() + " взял левую вилку");
+                synchronized(rightFork) {
+                    System.out.println(Thread.currentThread().getName() + " взял правую вилку и начинает кушать");
+                    System.out.println(Thread.currentThread().getName() + " положил правую вилку");
+                }
+                System.out.println(Thread.currentThread().getName() + " положил левую вилку и начинает размышлять");
+            }
         }
     }
 }

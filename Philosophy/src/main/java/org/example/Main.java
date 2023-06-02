@@ -3,13 +3,14 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         Philosopher[] philosophers = new Philosopher[5];
-        Fоrk[] fоrks = new Fоrk[5];
-        for (Fоrk fоrk: fоrks ){
-            fоrk.taken = false;
+        Object[] forks = new Object[5];
+        for (int i = 0; i < forks.length; i++) {
+            forks[i] = new Object();
         }
-        for (int i = 0; i < philosophers.length; i++) {
-            Philosopher philosopher = new Philosopher(fоrks[i], fоrks[(i + 1) % 5]);
+        for (int i = 0; i < philosophers.length - 1; i++) {
+            philosophers[i] = new Philosopher(forks[i], forks[(i + 1) % 5]);
         }
+        philosophers[philosophers.length-1] = new Philosopher(forks[0], forks[philosophers.length-1]);
         Thread thread0 = new Thread(philosophers[0], "Плутон");
         Thread thread1 = new Thread(philosophers[1], "Аристотель");
         Thread thread2 = new Thread(philosophers[2], "Оботуров");
